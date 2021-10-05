@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Vanessa
 #### I am software developer
-![I am software developer](https://github.com/vagava/vagava/blob/main/EncabezadoTechnology.jpg)
+![I am software developer](https://github.com/vagava/vagava/blob/main/EncabezadoTechnology1200.png)
 
 I love music, technology and traveling.
 Knowledge for me is an invaluable tool, that's why I get excited to listen to people who talk passionately about their profession, whatever it is.
