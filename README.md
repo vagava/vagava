@@ -10,9 +10,7 @@ Skills: PYTHON/ SQL / REACT / JS / HTML / CSS
 - 🔭 I’m currently working on RESCOT (personal project) 
 - 🌱 I’m currently learning JS/REACT/NEXTJS 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vagava)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/vanessa-sofware-developer/)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vagava)](https://github.com/anuraghazra/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vagava)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/vanessa-sofware-developer/) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vagava)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vagava&show_icons=true)  
 
